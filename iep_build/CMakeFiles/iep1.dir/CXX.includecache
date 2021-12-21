@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/adrian/Desktop/iep1/Card.cpp
+Card.hpp
+/home/adrian/Desktop/iep1/Card.hpp
+
+/home/adrian/Desktop/iep1/Card.hpp
+iostream
+-
+Wallet.hpp
+/home/adrian/Desktop/iep1/Wallet.hpp
+
+/home/adrian/Desktop/iep1/Wallet.cpp
+Wallet.hpp
+/home/adrian/Desktop/iep1/Wallet.hpp
+
+/home/adrian/Desktop/iep1/Wallet.hpp
+iostream
+-
+
+/home/adrian/Desktop/iep1/main.cpp
+Wallet.hpp
+/home/adrian/Desktop/iep1/Wallet.hpp
+Card.hpp
+/home/adrian/Desktop/iep1/Card.hpp
+
